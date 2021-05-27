@@ -1,3 +1,4 @@
 # Tensorflow-Object-Recognition
-# Deep Learning Object Detection with TF
-# Gesture detection
+##### Deep Learning Object Detection with TF
+############ Gesture detection
+############ 
